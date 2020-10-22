@@ -1,1 +1,1 @@
-# AdaptiveCityGenerator
+# AdaptiveLandscapeGenerator
